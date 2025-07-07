@@ -1,0 +1,1 @@
+def test(url): print(f'[Bypass] Checking {url}')

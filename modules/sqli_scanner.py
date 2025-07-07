@@ -1,0 +1,1 @@
+def scan(url): print(f'[SQLi] Testing {url} with payloads')

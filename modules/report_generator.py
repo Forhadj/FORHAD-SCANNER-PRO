@@ -1,0 +1,1 @@
+def generate(): print('[Report] Generated sample report')

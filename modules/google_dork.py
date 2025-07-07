@@ -1,0 +1,1 @@
+def scan(url): print(f'[DORK] Searching on {url}')

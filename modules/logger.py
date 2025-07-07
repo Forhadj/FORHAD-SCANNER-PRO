@@ -1,0 +1,1 @@
+def view_logs(): print('[Logs] scan_logs.log opened')
