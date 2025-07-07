@@ -1,0 +1,6 @@
+admin
+wp-admin
+login
+cpanel
+secret
+adminpanel
