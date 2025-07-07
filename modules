@@ -1,0 +1,4 @@
+mkdir modules
+cd modules
+touch __init__.py google_dork.py sqli_scanner.py login_bypass.py admin_finder.py report_generator.py logger.py
+cd ..
