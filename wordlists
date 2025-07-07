@@ -1,0 +1,11 @@
+mkdir wordlists
+echo "admin
+wp-admin
+administrator
+login
+panel
+cpanel
+adminarea
+backend
+secret
+control" > wordlists/admin_panels.txt
